@@ -12,5 +12,4 @@ end
 vim.opt.rtp:prepend(lazypath)
 require("lazy").setup("plugins")
 require("mason").setup()
-local lspconfig = require('lspconfig')
  vim.wo.relativenumber = true
