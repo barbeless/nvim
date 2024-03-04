@@ -12,7 +12,7 @@ return {
 	defaults = {
 		hidden = false,
 		file_ignore_patterns = {".git\\", ".cache", "%.o", "%.a", "%.out", "%.class",
-		"%.pdf", "%.mkv", "%.mp4", "%.zip"},
+		"%.pdf", "%.mkv", "%.mp4", "%.zip", "openssl\\"},
 	},
         extensions = {
           ["ui-select"] = {
