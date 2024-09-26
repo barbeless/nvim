@@ -16,5 +16,5 @@ vim.wo.relativenumber = true
 vim.opt.tabstop = 8
 vim.opt.softtabstop = 2
 vim.opt.shiftwidth = 2
-
+vim.cmd("colorscheme everforest")
 
